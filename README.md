@@ -6,7 +6,7 @@ A full-stack AI operating system for short-term rentals, powered by Google Gemin
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```
 Multi-Channel Inbox (Simulated)
@@ -26,7 +26,7 @@ Memory + Intelligence Layer
 FastAPI Backend + Next.js Dashboard
 ```
 
-## 🔥 11 Core Modules
+## 11 Core Modules
 
 | Module | Description |
 |--------|-------------|
@@ -42,7 +42,7 @@ FastAPI Backend + Next.js Dashboard
 | **Demand Spiker** | Event-based pricing intelligence |
 | **Silent Complaint Miner** | Extracts hidden patterns from reviews |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Backend Setup
 
@@ -75,7 +75,7 @@ npm run dev
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
@@ -99,7 +99,7 @@ Get your Gemini API key at: https://aistudio.google.com/
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 ├── backend/
@@ -119,7 +119,7 @@ Get your Gemini API key at: https://aistudio.google.com/
         └── lib/api.ts       # API client
 ```
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
