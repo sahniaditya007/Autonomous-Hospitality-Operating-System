@@ -8,23 +8,8 @@ A full-stack AI operating system for short-term rentals, powered by Google Gemin
 
 ## System Architecture
 
-```
-Multi-Channel Inbox (Simulated)
-        ↓
-Autonomous Decision Engine (Gemini)
-        ↓
-Memory + Intelligence Layer
- ├─ Ops Memory Graph (NetworkX)
- ├─ Guest Context
- └─ Property Knowledge (RAG)
-        ↓
-┌──────────────┬──────────────┬──────────────┐
-│ Communication│ Simulation   │ Optimization │
-│ Agent        │ Digital Twin │ Engines      │
-└──────────────┴──────────────┴──────────────┘
-        ↓
-FastAPI Backend + Next.js Dashboard
-```
+<img width="970" height="900" alt="diagram-export-5-1-2026-4_15_11-PM" src="https://github.com/user-attachments/assets/7b19d595-0622-4d6b-baaf-8991f000a334" />
+
 
 ## 11 Core Modules
 
@@ -119,12 +104,3 @@ Get your Gemini API key at: https://aistudio.google.com/
         └── lib/api.ts       # API client
 ```
 
-## Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| AI | Google Gemini 1.5 Flash |
-| Backend | FastAPI + Python |
-| Memory Graph | NetworkX |
-| Frontend | Next.js 14 + TailwindCSS |
-| Data | Simulated STR portfolio (5 properties, 8 guests, 15 messages) |
