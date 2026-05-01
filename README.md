@@ -27,6 +27,20 @@ A full-stack AI operating system for short-term rentals, powered by Google Gemin
 | **Demand Spiker** | Event-based pricing intelligence |
 | **Silent Complaint Miner** | Extracts hidden patterns from reviews |
 
+## Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/484aa217-6114-46cd-a799-81b19595d631" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99f59aa9-025b-41e2-a44b-0d7aadec0821" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94e23961-e339-4006-8048-fb227280b0ea" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4912f845-d925-4fd3-bd01-991beb97fc05" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/188cdfe1-dce4-4354-8751-8b8bb9895aaf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c89b98d8-04e1-4562-a441-2b5a269941c1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/250c9827-4923-49e5-aace-137016733c96" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a655197-ec42-49bb-b219-4119a59810fb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acee3a65-5944-4dd5-9b88-5054e91a15d6" />
+
+
+
+
 ## Quick Start
 
 ### 1. Backend Setup
